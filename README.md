@@ -1,6 +1,8 @@
 # TASK-5
 EXPLORATORY DATA ANALYSIS
+
 Dataset Overview
+
 •	Rows & Columns: 891 rows × 12 columns
 •	Target Variable: Survived (0 = Did not survive, 1 = Survived)
 •	Missing Values:
